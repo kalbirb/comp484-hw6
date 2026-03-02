@@ -8,12 +8,20 @@
 /* Global styles 
 ------------------------------------*/
 body {
-    background: lightblue;
+    font-family: "Pangolin", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 
 
 /* Header & Footer 
 ------------------------------------*/
+header, footer{
+    background: #75ff00;
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
 
 
 
